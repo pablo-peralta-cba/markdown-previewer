@@ -2,34 +2,33 @@
 
 Light web application to edit and visualize Markdown live.
 
-**[Visita el sitio web](https://markdown-previewer-wp88.onrender.com/)**
+**[Check the website](https://markdown-previewer-wp88.onrender.com/)**
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - React
 - JavaScript
 - HTML
 - CSS
 
-## Instalación (para desarrolladores)
+## Installation (for devs)
 
-Para ejecutar el proyecto localmente, sigue estos pasos:
+To execute locally this project, you have to follow these steps:
 
-1.  Clona el repositorio:
+1.  Clone the repository:
     ```bash
     git clone [https://github.com/pablo-peralta-cba/markdown-previewer.git](https://github.com/pablo-peralta-cba/markdown-previewer.git)
     ```
-2.  Navega al directorio del proyecto:
+2.  Go to the project root directory:
     ```bash
     cd markdown-previewer
     ```
-3.  Instala las dependencias:
+3.  Install dependencies:
     ```bash
     npm install
     ```
-4.  Inicia la aplicación en modo desarrollo:
-    ```bash
+4.  Run the app in dev mode:
+    `bash
     npm run dev
-    ```
-
-Esto abrirá la aplicación en tu navegador. ¡Listo para empezar a contribuir!
+    `
+    This will open the local app on your browser. ¡Ready to contribute!
