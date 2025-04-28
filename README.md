@@ -1,8 +1,35 @@
-# React + Vite
+# Markdown Previewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Light web application to edit and visualize Markdown live.
 
-Currently, two official plugins are available:
+**[Visita el sitio web](https://markdown-previewer-wp88.onrender.com/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías Utilizadas
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+## Instalación (para desarrolladores)
+
+Para ejecutar el proyecto localmente, sigue estos pasos:
+
+1.  Clona el repositorio:
+    ```bash
+    git clone [https://github.com/pablo-peralta-cba/markdown-previewer.git](https://github.com/pablo-peralta-cba/markdown-previewer.git)
+    ```
+2.  Navega al directorio del proyecto:
+    ```bash
+    cd markdown-previewer
+    ```
+3.  Instala las dependencias:
+    ```bash
+    npm install
+    ```
+4.  Inicia la aplicación en modo desarrollo:
+    ```bash
+    npm run dev
+    ```
+
+Esto abrirá la aplicación en tu navegador. ¡Listo para empezar a contribuir!
